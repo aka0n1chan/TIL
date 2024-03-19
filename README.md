@@ -1,4 +1,8 @@
 # What's this repo for?
-日々取り組んだことを記録する  
-取り組まなかったときも正直に書く  
-見返して自己肯定感を高めたり反省したりする
+To keep a record of what I'm learning  
+
+# When will this repo be updated?
+At the end of the day when I learned something.　　
+
+# Reference  
+[Githubのリポジトリ「TIL」を使って小さなアウトプットを習慣化する](https://qiita.com/nemui_/items/239335b4ed0c3c797add)
